@@ -39,6 +39,8 @@ def jalan(z):
 logo = """
    Md mamun
    ▄︻̷̿┻̿═━一
+   THE ANONYMOUS Dark Hacker Mind
+   ▄︻̷̿┻̿═━一
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mDark
 \033[1;96mYouTube \033[1;93m: \033[1;92mhttps://youtu.be/nSGu4ZfinqE
